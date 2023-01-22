@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RiteshGupta2003
+- 👋 Hi, I’m Ritesh Gupta
 - 👀 I’m interested in Android Development 
 - 🌱 I’m currently learning Java & Kotlin 
 - 💞️ I’m looking to collaborate on ...
